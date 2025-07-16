@@ -2,7 +2,7 @@
 
 # 🧠 Reel Reasoner – Solve Reels Like a Coder
 
-A unique project that converts viral reels (like “Who is dead?” or “Who stole the diamond?”) into structured DSA logic (Trees, DP, Graphs, etc.) using a custom DSL (Domain-Specific Language) parser.
+A unique project that converts viral reels (like “Who is dead?” or “Who stole the diamond?”) into structured DSA logic (Trees, DP, Graphs, etc.) using a custom DSA (Data Structures and Algorithms ) .
 
 ## 🔧 Technologies
 - C++ / Python
